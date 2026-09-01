@@ -1,0 +1,10 @@
+bibentry(
+  bibtype = "Unpublished",
+  title   = "Auxiliary {IV} Estimation for Nonlinear Models",
+  author  = c(person("Riccardo", "D'Adamo"),
+              person("Martin",   "Weidner"),
+              person("Frank",    "Windmeijer")),
+  year    = "2026",
+  note    = "Working paper",
+  header  = "To cite auxiv in publications, please cite the paper it implements:"
+)
